@@ -24,3 +24,7 @@ __Task2__
 1. Do all of your work in _develop_ branch
 2. Once you are done, create a pull request and put one of your colleagues as a reviewer.
 3. When your homework is approved, merge it to the _master_ branch.
+
+### Images
+![Task 1 Screenshot](https://github.com/jlboban/PHPAcademyHomework2/blob/develop/Images/Task1.png?raw=true)
+![Task 2 Screenshot](https://github.com/jlboban/PHPAcademyHomework2/blob/develop/Images/Task2.png?raw=true)
